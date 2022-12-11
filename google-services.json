@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1017832191003",
+    "firebase_url": "https://challenge-38ce2.firebaseio.com",
+    "project_id": "challenge-38ce2",
+    "storage_bucket": "challenge-38ce2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017832191003:android:07c277ce3d6ef43489f4be",
+        "android_client_info": {
+          "package_name": "com.challenge.challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017832191003-2ev9rd9s4k7id6ppv7bgvt9ncl3lm7ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDNAiBjhe2fd8Smd0KJ-H19XnEp_CEzZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017832191003-2ev9rd9s4k7id6ppv7bgvt9ncl3lm7ct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1017832191003-3mm6u8rc3ff8ck2di60a3rtcj247uche.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

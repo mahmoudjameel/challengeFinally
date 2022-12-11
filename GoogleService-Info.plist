@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1017832191003-78a0av1mkb988cpbjuj3bcp07uecskvr.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDIBV0-DvnQl41pXcShAC6c8IGWWBAj8D0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1017832191003</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.challenge.challengeapps</string>
+	<key>PROJECT_ID</key>
+	<string>challenge-38ce2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>challenge-38ce2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1017832191003:ios:7c29c1d5323863dd89f4be</string>
+	<key>DATABASE_URL</key>
+	<string>https://challenge-38ce2.firebaseio.com</string>
+</dict>
+</plist>

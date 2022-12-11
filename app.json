@@ -1,0 +1,78 @@
+{
+  "expo": {
+    "name": "challengeapp",
+    "slug": "challengeapp",
+    "version": "2.4",
+    "plugins": [
+      [
+        "expo-ads-admob",
+        {
+          "userTrackingPermission": "This identifier will be used to deliver personalised ads to you."
+        }
+      ],
+       [
+        "expo-notifications",
+        {
+          "icon": "./local/assets/ico.png",
+          "color": "#ffffff"
+        }
+      ]
+    
+    ],
+    "orientation": "portrait",
+    "icon": "./assets/ico.png",
+    "splash": {
+      "image": "./assets/cheering.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2b5876"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "bundleIdentifier": "com.challenge.challengeapps",
+      "buildNumber": "1",
+      "usesIcloudStorage": true,
+      "infoPlist": {
+        "UIBackgroundModes": [
+          "audio"
+        ]
+      },
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-3882559038076253~2835176312"
+        
+
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/cheering.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "useNextNotificationsApi": true,
+      "package": "com.challenge.challenge",
+      "googleServicesFile": "./google-services.json",
+      "versionCode": 30,
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-3882559038076253~4997019380"
+      }
+
+    },
+    "web": {
+      "favicon": "./assets/cheering.png",
+      "build": {
+        "babel": {
+          "include": [
+            "static-container"
+          ]
+        }
+      }
+    },
+    "description": ""
+  }
+}
